@@ -2,4 +2,5 @@
 Ejercicios y ejemplos utilizando PowerBi, Python o SQL
 
 Datasets referencias
-ds_salaries.csv Recopilado de www.kaggle.com (Owner:randomarnab)
+1. ds_salaries.csv , Recopilado de www.kaggle.com (Owner: randomarnab)
+2. Students Exam Scores: Extended Dataset, Recopilado de www.kaggle.com (Owner: des.)
