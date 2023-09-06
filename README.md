@@ -1,5 +1,5 @@
 # BI-Python-SQL
-Ejercicios y ejemplos utilizando PowerBi, Python o SQL
+PowerBi, Python o SQL
 
 Datasets referencias
 1. ds_salaries.csv , Recopilado de www.kaggle.com (Owner: randomarnab)
