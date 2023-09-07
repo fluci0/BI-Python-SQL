@@ -1,0 +1,31 @@
+Product_ID,Description,Unit_Price,Supplier_ID
+1,Smartphone,"$1,500",7
+2,Tablet,"$1,000",4
+3,Laptop,"$3,000",10
+4,Desktop computer,"$4,000",7
+5,Flat-screen TV,"$3,000",1
+6,Wireless headphones,$500,7
+7,Bluetooth speakers,$500,10
+8,Digital camera,"$2,000",5
+9,"Video game console (e.g., Xbox, PlayStation)",$500,4
+10,Smartwatch,$500,10
+11,Wireless charger,$50,5
+12,Laser printer,"$1,000",9
+13,Wi-Fi router,$300,10
+14,Drone,"$2,000",6
+15,Blu-ray player,$300,10
+16,Computer monitor,"$1,000",2
+17,Home theater system,"$2,000",8
+18,Smart thermostat,$300,6
+19,"Virtual assistant (e.g., Amazon Echo, Google Home)",$200,6
+20,Mechanical gaming keyboard,$200,3
+21,Ergonomic mouse,$100,5
+22,External hard drive,$300,1
+23,E-reader (e-book reader),$400,1
+24,Security camera system,$500,9
+25,Video projector,"$2,000",2
+26,Car audio system,"$1,000",4
+27,Power bank (portable battery charger),$100,7
+28,Virtual reality (VR) glasses,$800,6
+29,Document scanner,$500,2
+30,SD memory card,$100,6
