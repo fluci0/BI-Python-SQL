@@ -1,7 +1,9 @@
 # BI-Python-SQL
-PowerBi, Python o SQL
+SQL Queries
+PowerBi (data visualization)
+Python Scripts
 
-Datasets referencias
+Datasets references
 1. Howse, Created by me
-2. ds_salaries.csv , Recopilado de www.kaggle.com (Owner: randomarnab)
-3. Students Exam Scores: Extended Dataset, Recopilado de www.kaggle.com (Owner: des.)
+2. ds_salaries.csv , Recopiled from www.kaggle.com (Owner: randomarnab)
+3. Students Exam Scores: Extended Dataset, Recopilded from www.kaggle.com (Owner: des.)
